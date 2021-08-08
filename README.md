@@ -1,5 +1,9 @@
-# Network
-The Mall Click Network
+<html>
+<meta>
+#Network
+<Title>The Mall Click Network</title>
+
+
 </Script>
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
@@ -12,3 +16,4 @@ const firebaseConfig = {
   measurementId: "G-SGYVJF71M4"
 };
 </Script>
+</html>
